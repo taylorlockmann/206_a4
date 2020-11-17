@@ -1,0 +1,11 @@
+---
+title: "a4_task2_taylor_lockmann"
+author: "Taylor Lockmann"
+date: "11/17/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
